@@ -3,7 +3,7 @@ Photos on Instagram Over Time
 
 This tool allows you to graph the number of photos on Instagram over time.
 
-Unfortunately, it is not possible to graph posts made after 7 February 2012, as no media posted after this date has a sequential media ID.
+Unfortunately, it is not possible to graph posts made after 7 February 2012, as no media posted after this date has a sequential media ID (http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram).
 
 This tool requires that Python is installed on your computer. This tool also requires that you have the Python Client for the Instagram API (https://github.com/Instagram/python-instagram).
 
